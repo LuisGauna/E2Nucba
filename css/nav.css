@@ -105,6 +105,10 @@ section{
         font-size: 30px;
         
     }
+    li a:hover{
+        background: #FEA429;
+        transition: .5s;    
+    }
     
     #check:checked ~ ul{
         left: 0;
